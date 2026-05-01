@@ -1,6 +1,6 @@
 # Team Task Manager
 
-This repository contains a full-stack task manager built with Express, SQLite, and React.
+A compact team workflow app for creating projects, assigning tasks, and tracking progress.
 
 ## Features
 - User signup / login
@@ -39,3 +39,5 @@ This repository contains a full-stack task manager built with Express, SQLite, a
 ## Notes
 - The first registered user becomes `ADMIN`.
 - `database.sqlite` is created automatically.
+
+
